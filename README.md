@@ -1,4 +1,4 @@
-# Mendeley Citation Automation (Universal Edition)
+# Mendeley Citation Automation 
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Platform Windows](https://img.shields.io/badge/Platform-Windows-green.svg)]()
