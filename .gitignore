@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Microsoft Office temporary / lock files
+~$*.docx
+~$*.xlsx
+*.tmp
+
+# User manuscripts and generated output files
+* - Mendeley.docx
+manuscript - Mendeley.docx
+laporan_sitasi.xlsx
+mapping_report.csv
+PERLU_DIPERIKSA.txt
+referensi_belum_ada.ris
+crossref_cache.json
+*.db
+*.db-wal
+*.db-shm
+
+# OS specific
+.DS_Store
+Thumbs.db
+Desktop.ini
